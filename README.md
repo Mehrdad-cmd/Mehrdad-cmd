@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehrdad-cmd
 - 👀 I’m interested in Geoinformation systems.
-- 🌱 I’m currently learning GIS Software and Programming in Python.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m studying Master of Geodesy and Geoinformation Science.
+- 💞️ I’m looking to collaborate on Geoinformation subjects.
 - 📫 How to reach me: babaei.mehrdad89@gmail.com
 - 😄 Pronouns: Keep going!
 - ⚡ Fun fact: Not in words!
